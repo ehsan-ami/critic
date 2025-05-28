@@ -1,4 +1,9 @@
-# Academic Project Page Template
+# Curb Your Attention: Causal Attention Gating for Robust Trajectory Prediction in Autonomous Driving 
+Accpeted at ICRA2025
+[arXiv](https://arxiv.org/abs/2410.07191) 
+[project page](https://ehsan-ami.github.io/critic/)
+
+## Academic Project Page Template
 This is an academic paper project page template.
 
 
